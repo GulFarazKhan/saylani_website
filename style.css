@@ -1,0 +1,153 @@
+
+#zulu{
+    padding-left: 150px;
+}
+
+.header{
+    border: crimson;
+    border-width: 10px;
+    background-color: blue;
+    padding-left: 100px;
+
+}
+#para{
+    padding-right: 30px;
+    padding-left: 20px;
+}
+.a{
+    text-align: center;
+
+}
+
+.rolling{
+    background-color: blue;
+    color: cornsilk;
+    
+    align-items: center;
+    padding-left: 130px;
+    width: 100%;
+}
+div.a{
+    text-align: center;
+}
+#intro{
+    color: darkgreen;
+}
+div.b{
+    text-align: center;
+}
+div.inlin{
+    background-color: whitesmoke;
+    text-align: start;
+    border: chartreuse;
+    border-spacing: 5px;
+
+}
+.box{
+    padding-left: 70%;
+    background-color:whitesmoke;
+    border: 2px solid black;
+    box-shadow:5px 5px 3px #DCDCDC;
+    color:blue;
+    display: inline-flex;
+    font-family:'Times new roman';
+    margin: 0 auto;
+    padding: 10px 20px 10px 20px;
+    align-self: center;
+    width: 80%;
+    }
+    #log-1{
+        border-style: initial;
+        border-width: 50px;
+        color: lightcoral;
+        border-color: green;
+    }
+    #logo-2{
+        border-top: lawngreen;
+        border-width: thick;
+        }
+
+        #log-3{
+            border-style: initial;
+            border-width: 50px;
+            color: lightcoral;
+            border-color: green;
+            padding-left: 50px;
+        }
+
+            #log-4{
+                border-style: initial;
+                border-width: 50px;
+                color: lightcoral;
+                border-color: green;
+                padding-left: 100px;
+            }
+
+
+    .tiles{
+        box-sizing: content-box;
+        border-spacing: 40px;
+        border: violet;
+        border-width: thick;
+        display: inline-flexbox;
+    }
+    .grid{
+        color: rgb(97, 97, 216);
+
+    }
+    .alpha{
+        color: blue;
+    }
+    p{
+        font-family: 'Times New Roman', Times, serif;
+        
+    }
+    .bravo{
+        padding-left: 80px;
+    }
+
+/* class is given to multiple tags and paragraphs...
+for class .class_Name here {} */
+
+ /* id is given to a single tag or paragraph...
+ #id_Name_here... */
+
+/* for direct child li>tag_Name_here */
+
+/* for decendant child like grand child
+first_tag  second_tag{} */
+
+.beta{
+
+    background-color: rgb(77, 75, 75);
+
+}
+.beta-2{
+
+    background-color: navy;
+    text-align: right;
+    color: deeppink;
+}
+.beta-3{
+    background-color: blue;
+}
+
+body{
+    background-color: seashell;
+}
+
+
+
+
+/* comment */
+.header{
+    background-color: #1E90FF;
+    border: 2px solid  #1E90FF;
+    color: white;
+    display: inline-block;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin: 0 auto;
+    padding: 5px 5px 5px 5px;
+    
+  }
